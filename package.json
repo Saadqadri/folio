@@ -7,10 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "saad",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saadqadri/folio.git"
+  },
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saadqadri/folio/issues"
+  },
+  "homepage": "https://github.com/Saadqadri/folio#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "mongoose": "^7.0.3",
     "nodemon": "^2.0.22"
   }
 }
