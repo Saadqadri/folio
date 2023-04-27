@@ -83,6 +83,8 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  /* margin-top: 20px; */
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -11732,3 +11734,39 @@ html {
     left: -2vw;
   }
 }
+/* #hunar{
+  font-size: 20px;
+  margin: 45px ;
+  overflow: hidden;
+}
+.bars{
+  margin-bottom: 15px;
+  height: 30px;
+    width: 100%;
+    background: lightslategray;
+    position: relative;
+    border-radius: 1000px;
+    text-transform: uppercase;
+    margin: 20px auto;
+}
+#info{
+  font-size: 16px;
+  z-index: 1;
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 15px;
+  text-shadow: none;
+  color: white;
+  font-family: 'Courier New', Courier, monospace; 
+}
+.ps{
+  z-index: 3;
+  position: relative;
+  margin-right: 15px;
+  margin-top: 50px;
+  float: right;
+  text-shadow: none;
+  color: #fff;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+} */
